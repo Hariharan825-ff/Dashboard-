@@ -136,10 +136,8 @@ PhonePe-Payment-Insights-Dashboard/
 │
 ├── README.md
 ├── PhonePe_Dashboard.pbix
-├── dataset/
-│   └── PhonePe_Transactions.csv
-└── screenshots/
-    └── dashboard.png
+├── PhonePe_Transactions.csv
+└── dashboard.png
 ```
 
 *The filenames above are suggested examples. Replace them with the actual filenames and folders in your repository.*
